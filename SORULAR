@@ -1,0 +1,9 @@
+a) Algortmayı günlük hayatta kullanamayız çünkü hata oranı çok yüksek bir algoritma kırmızı renk tespiti yapmak zor çünkü birçok renkte var sklalarla ne kadar oynasam da doğru sonuca ulaşamadım ve gördğünüz gibi 
+fotoğraf 2 nin outputuna ulaşamadım ve bir işaret de kaydı.
+
+b)yukarıda da belirttiğim gibi kırmızı rengin fotoğraf hsv formatına getirildiğinde her yerde bulunması bence başlıca problem 
+
+c)Şekil tanınırlığı ya da olabiliyorsa harften tanıma gibi özelliklerle kod yazılırsa daha fazla verim alınacağını düşünüyorum belki ıf ile bir döngüler oluşturup maskledeğimiz formatı şekillerle koşullandırabiliriz.
+
+
+
